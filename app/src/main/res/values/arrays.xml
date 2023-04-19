@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="newline_names">
+        <item>CR+LF</item>
+        <item>LF</item>
+        <item>&lt;none&gt;</item>
+    </string-array>
+    <string-array name="newline_values">
+        <item>\u000d\u000a</item>
+        <item>\u000a</item>
+        <item></item>
+    </string-array>
+    <string-array name="spch">
+        <item>CH</item>
+        <item>CH0(default)</item>
+        <item>CH1(C+D)</item>
+        <item>CH2(C+T+H1)</item>
+        <item>CH3(C+T+H2)</item>
+        <item>CH4(T)</item>
+        <item>CH5(H)</item>
+    </string-array>
+
+    <string-array name="DIMM">
+        <item>DIM</item>
+        <item>DIM0(MAX)</item>
+        <item>DIM1</item>
+        <item>DIM2</item>
+        <item>DIM3</item>
+        <item>DIM4</item>
+        <item>DIM5</item>
+        <item>DIM6(LOW)</item>
+    </string-array>
+</resources>
